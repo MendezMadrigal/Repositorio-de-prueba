@@ -41,11 +41,18 @@ body{
 }
 
 .footer{
-    height: 15px;
+    height: 20px;
     text-align: center;
     margin: 0;
     padding: 0;
     color: black;
     background-color: gray;
+    
+}
+
+.footer p{
+    align-items: center;
+    vertical-align: middle;
+    padding-top: 1%;
 }
 
