@@ -4,14 +4,11 @@ Acontinuación serán capaces de visualizar el primer repositorio que logré cre
 
 En este repositorio se encuentra un pequeño archivo html con diversas etiquetas con fines de ejemplos prácticos para el uso de Git y GitHub. De igual manera, encontraremos archivos como: 
 							
-							.gitignore
-							.html
-							.css
-							.jpg
-							.png
-							
-							
-							
+- .gitignore
+- .html
+- .css
+- .jpg
+- .png
 
 Espero que este no sea el ultimo repositorio que haga y sientanse libres de hacerle un fork a mi repositorio. 
 
