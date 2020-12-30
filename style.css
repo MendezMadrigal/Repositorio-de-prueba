@@ -30,10 +30,18 @@ body{
     color: black
 }
 .container p{
-
     font-size: 12px;
-    margin: 15px;
+    margin-top: 15px;
    
     
+}
+
+.footer{
+    height: 15px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: gray;
 }
 
